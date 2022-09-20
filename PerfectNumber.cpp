@@ -12,6 +12,8 @@ int main(){
     
     if(sum == s)
         cout << s <<" is a perfect number";
+    else if (s<sum)
+        cout << "Enter the valid number, The input is invalid";
     else
         cout << s <<" is not a perfect number";
     
