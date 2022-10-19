@@ -40,18 +40,18 @@ Number of Programs : 15
   
 Day 3:
 Number of Programs :12
-  Degree.cpp
-  Class Array of Students.cpp
-  Deposite.cpp
-  Piggie Bank.cpp
-  Print Integer by Swapping.cpp
-  Print Number.cpp
-  PrintNum of i&j.cpp
-  RBI.cpp
-  RBI on Banks.cpp
-  Area's Class.cpp
+  Degree.cpp(Code Blocks)
+  Class Array of Students.cpp(Code Blocks)
+  Deposite.cpp(Code Blocks)
+  Piggie Bank.cpp(Code Blocks)
+  Print Integer by Swapping.cpp(Code Blocks)
+  Print Number.cpp(Code Blocks)
+  PrintNum of i&j.cpp(Code Blocks)
+  RBI.cpp(Code Blocks)
+  RBI on Banks.cpp(Code Blocks)
+  Area's Class.cpp(Code Blocks)
   Student Class (Code Blocks)
-  Rectangle.cpp
+  Rectangle.cpp(Code Blocks)
   
  Day 4:
  Number of Programs : 2
