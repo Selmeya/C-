@@ -39,7 +39,7 @@ Number of Programs : 15
   
   
 Day 3:
-Number of Programs :
+Number of Programs :12
   Degree.cpp
   Class Array of Students.cpp
   Deposite.cpp
@@ -48,6 +48,7 @@ Number of Programs :
   Print Number.cpp
   PrintNum of i&j.cpp
   RBI.cpp
+  RBI on Banks.cpp
   Area's Class.cpp
   Student Class (Code Blocks)
   Rectangle.cpp
